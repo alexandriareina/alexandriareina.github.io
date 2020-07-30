@@ -1,11 +1,7 @@
-@import "https://googleapis.com/css?family=Bungee;
-
 body {
   background-color: #C2E7D9;
-  font-family: 'Bungee', serif;
-  font-size: 48px;
-        display: center;
-        font-color: white;
+  display: center;
+ font-color: #FFFFFC;
 }
 
 #page-wrapper {
