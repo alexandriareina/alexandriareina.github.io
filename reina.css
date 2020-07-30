@@ -4,6 +4,10 @@ body {
  font-color: #FFFFFC;
 }
 
+h1 {
+  font-color: #FFFFFC;
+  bottom-border: 1px solid black;
+
 #page-wrapper {
   position: relative;
 }
