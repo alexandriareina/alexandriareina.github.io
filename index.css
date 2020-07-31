@@ -10,12 +10,12 @@ body {
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   height: 100vh;
+  flex-direction: space-around;
 }
 
 .marquee {
-  display: grid;
   text-align: center;
-  font-color: #FFFFFC;
+  color: #FFFFFC;
  }
     
 
