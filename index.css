@@ -13,9 +13,11 @@ body {
 }
 
 h1 {
+  display: grid;
   place-items: center;
 }
 
 h2 {
+  display: grid;
   place-items: center;
 }
