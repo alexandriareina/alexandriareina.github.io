@@ -4,6 +4,7 @@
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    flex-direction: space-between;
   }
 
 body {
@@ -18,20 +19,7 @@ body {
   bottom-border: 2px solid black;
  }
 
-.box {
-   display:grid;
-   flex-direction: space-between !important;
-   width: 100% !important;
-   height: 180px !important;
-   border-bottom: 10px black;
-     background-color: #a8a8a8;
-  margin: 0 auto;
-  border-radius: 15px 15px 15px 15px;
-  width: 55%;
-  max-width: 9700px;
-  padding: 10px;
-  padding-top: 20px;
-}
+.
     
 
 
