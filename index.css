@@ -1,19 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee');
 
-body {
-  display: grid;
-  height: 100vh;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-}
-
-// etc
-
-.parent-white {
-  display: grid;
-  place-items: center;
-  background: #FFFFFC;
-}
+.parent {
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
 
 body {
   font-family: Bungee, serif;
