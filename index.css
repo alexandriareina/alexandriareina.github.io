@@ -11,7 +11,7 @@ body {
 
 // etc
 
-div {
+.parent-white {
   display: grid;
   place-items: center;
   background: #FFFFFC;
