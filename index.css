@@ -9,15 +9,16 @@
 body {
   font-family: Bungee, serif;
   background-color: #C2E7D9;
-  font-color: #FFFFFC;
 }
 
 h1 {
   display: grid;
   place-items: center;
+  font-color: #FFFFFC;
 }
 
 h2 {
   display: grid;
   place-items: center;
+  font-color: #FFFFFC;
 }
