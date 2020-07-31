@@ -5,8 +5,6 @@ body {
   height: 100vh;
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  background-color: #C2E7D9;
-  font-color: #FFFFFC;
 }
 
 // etc
@@ -19,6 +17,8 @@ body {
 
 body {
   font-family: Bungee, serif;
+  background-color: #C2E7D9;
+  font-color: #FFFFFC;
 }
 
 h1 {
