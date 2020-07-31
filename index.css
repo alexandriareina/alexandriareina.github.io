@@ -15,11 +15,9 @@ body {
 .marquee-title {
   display: grid;
   text-align: center;
-  text-color: #FFFFFC;
-  bottom-border: 2px solid black;
+  text-color: #FFFFFC !important;
+  bottom-border: 2px solid black !important;
  }
-
-.
     
 
 
