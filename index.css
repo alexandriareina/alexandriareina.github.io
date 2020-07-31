@@ -18,4 +18,10 @@ body {
   bottom-border: 2px #FFFFFC;
  }
 
+.box {
+    display:grid;
+    flex-direction: space-between;
+}
+    
+
 
