@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css?family=Bungee');
 
 body {
   display: grid;
@@ -18,5 +18,5 @@ div {
 }
 
 body {
-  font-family: system-ui, sans-serif;
+  font-family: Bungee, serif;
 }
