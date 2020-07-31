@@ -20,3 +20,11 @@ div {
 body {
   font-family: Bungee, serif;
 }
+
+h1 {
+  place-items: center;
+}
+
+h2 {
+  place-items: center;
+}
