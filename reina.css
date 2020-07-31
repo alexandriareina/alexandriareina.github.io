@@ -1,42 +1,22 @@
-body {
-  background-color: #C2E7D9;
-  display: center;
- font-color: #FFFFFC;
-}
 
-.ex7 .parent {
-    display: grid;
-    grid-gap: 1rem;
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  }
 
 body {
   display: grid;
+  height: 100vh;
   grid-gap: 1rem;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  background-color: #C2E7D9;
+  font-color: #FFFFFC;
 }
 
-.visual {
-  height: 100px;
-  width: 100%;
-  background: wheat;
-  margin: 0.5rem 0;
-}
+// etc
 
-.card {
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  background: lightpink;
-  padding: 1rem;
+div {
+  display: grid;
+  place-items: center;
+  background: #FFFFFC;
 }
 
 body {
-  font-family: Bungee, serif;
+  font-family: system-ui, sans-serif;
 }
-
-h1 {
-  font-size: 1.5rem;
-}
-
-
