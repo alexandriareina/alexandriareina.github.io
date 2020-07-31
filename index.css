@@ -1,17 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee');
 
-body {
+.parent {
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  height: 100vh;
+  height: vhvh;
   font-family: Bungee, serif;
   background-color: #C2E7D9;
 }
 
-#h1 {
+.marquee {
   display: grid;
   text-align: center;
+  font-color: #FFFFFC;
  }
     
 
