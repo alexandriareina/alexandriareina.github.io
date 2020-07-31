@@ -9,12 +9,12 @@
 body {
   font-family: Bungee, serif;
   background-color: #C2E7D9;
-}
-
-h1 {
+    h1 {
   display: grid;
   text-align: center;
   font-color: #FFFFFC;
   bottom-border: 2px #FFFFFC;
+ }
 }
+
 
