@@ -14,8 +14,8 @@ body {
 .marquee-title {
   display: grid;
   text-align: center;
-  font-color: #FFFFFC;
-  bottom-border: 2px #FFFFFC;
+  text-color: #FFFFFC;
+  bottom-border: 2px solid black;
  }
 
 .box {
