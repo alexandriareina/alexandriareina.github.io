@@ -11,7 +11,7 @@ body {
   background-color: #C2E7D9;
 }
 
-h1 {
+.marquee-title {
   display: grid;
   text-align: center;
   font-color: #FFFFFC;
