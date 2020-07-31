@@ -10,10 +10,10 @@ body {
   flex-direction: space-around;
   font-family: Bungee, serif;
   background-color: #C2E7D9;
-  text-color: #FFFFFC !important;
+  font-color: #FFFFFC !important;
 }
 
-.marquee-title {
+#h1 {
   display: grid;
   text-align: center;
  }
