@@ -10,13 +10,12 @@
 body {
   font-family: Bungee, serif;
   background-color: #C2E7D9;
+  text-color: #FFFFFC !important;
 }
 
 .marquee-title {
   display: grid;
   text-align: center;
-  text-color: #FFFFFC !important;
-  bottom-border: 2px solid black !important;
  }
     
 
