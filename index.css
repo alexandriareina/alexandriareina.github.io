@@ -4,7 +4,7 @@
   display: grid;
   grid-gap: 1rem;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-  height: vhvh;
+  height: 100vh;
   font-family: Bungee, serif;
   background-color: #C2E7D9;
 }
