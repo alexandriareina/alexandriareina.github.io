@@ -22,12 +22,10 @@ body {
  }
   
 .marquee {
-  display: grid;
-  word-wrap: break-word;
-  place-items: center;
+  display: flex;
+  flex-direction: space-around;
   text-align: center;
-  text-border: 1px black;
   color: #FFFFFC;
-  font-size: 1em;
+  font-size: 2em;
  }
 
