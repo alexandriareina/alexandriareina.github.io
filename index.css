@@ -6,12 +6,6 @@ body {
   background-color: #C2E7D9;
 }
   
-.parent {
-  display: grid;
-  padding: 1rem;
-  grid-gap: 1rem;
-  grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
-}
 
 .link {
   display: inline-block;
