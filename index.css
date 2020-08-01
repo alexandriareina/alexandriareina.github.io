@@ -16,7 +16,6 @@ body {
 .box {
   flex: 1 1 150px; 
   margin: 5px;
-  padding: 25px;
  }
   
 .marquee {
@@ -32,6 +31,5 @@ iframe[seamless] {
   display: block;
   max-width: 550px;
   width: 100%;
-  padding: 20px;
 }
 
