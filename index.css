@@ -22,8 +22,7 @@ body {
  }
   
 .marquee {
-  display: flex;
-  flex-direction: space-around;
+  display: grid;
   text-align: center;
   color: #FFFFFC;
   font-size: 2em;
