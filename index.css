@@ -1,25 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Bungee');
 
 body {
-  flex-direction: space-around;
   font-family: Bungee, serif;
   background-color: #C2E7D9;
 }
   
 
 .link {
-  display: inline-block;
-  font-weight: bold;
-  margin: 0 0px 45px 35px;
-  list-style-type: none;
-  border: 4px solid #000;
-  border-radius: 100%;
-  width: 100px;
-  height: 100px;
-  line-height: 100px;
-  background: #eee;
-  color: #000;
-  text-decoration: inherit;
+
 }
 
 .link:hover {
