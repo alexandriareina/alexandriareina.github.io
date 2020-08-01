@@ -25,10 +25,11 @@ a.link:hover {
 }
 
 .marquee {
+  display: grid;
+  place-items: center;
   text-align: center;
   color: #FFFFFC;
   font-size: 2em;
-  display: fixed;
   bottom-border: 2px white;
  }
     
