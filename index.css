@@ -27,5 +27,7 @@ body {
   bottom-border: 2px white;
  }
     
-
+iframe[seamless] {
+  display: block;
+}
 
