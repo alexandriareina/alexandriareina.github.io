@@ -23,6 +23,7 @@ body {
   
 .marquee {
   display: grid;
+  word-wrap: break-word;
   place-items: center;
   text-align: center;
   color: #FFFFFC;
