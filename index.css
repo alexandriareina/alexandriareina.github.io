@@ -29,5 +29,7 @@ body {
     
 iframe[seamless] {
   display: block;
+  max-width: 550px;
+  width: 100%;
 }
 
