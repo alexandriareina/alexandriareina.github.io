@@ -28,4 +28,5 @@ body {
 
 iframe[seamless] {
   display: block;
+  justify-content: center;
 }
