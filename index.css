@@ -7,10 +7,9 @@ body {
   
 .parent {
   display: grid;
-  grid-gap: 1rem;
+  flex-direction: space-around;
   grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
   height: 100vh;
-  flex-direction: space-around;
 }
 
 .marquee {
