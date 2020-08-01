@@ -25,9 +25,7 @@ body {
   color: #FFFFFC;
   font-size: 2em;
  }
-   
-.video {
-  margin-top: 25px;
-  justify-content: center;
-  max-width: 550px;
+
+iframe[seamless] {
+  display: block;
 }
