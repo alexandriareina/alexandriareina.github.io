@@ -28,7 +28,8 @@ a.link:hover {
   text-align: center;
   color: #FFFFFC;
   font-size: 2em;
-  display: space-around;
+  display: fixed;
+  bottom-border: 2px white;
  }
     
 
