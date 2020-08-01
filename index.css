@@ -24,11 +24,6 @@ body {
   text-align: center;
   color: #FFFFFC;
   font-size: 2em;
-  bottom-border: 2px white;
  }
-    
-iframe[seamless] {
-  display: block;
-  justify-content: center;
-}
+   
 
