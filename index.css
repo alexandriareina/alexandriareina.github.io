@@ -28,7 +28,7 @@ a.link:hover {
   text-align: center;
   color: #FFFFFC;
   font-size: 2em;
-  display: flex;
+  display: space-around;
  }
     
 
