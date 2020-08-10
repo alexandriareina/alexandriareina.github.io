@@ -56,7 +56,7 @@ body {
 }
 .btn-link:before {
   height: 0%;
-  width: 2px;
+  width: 1px;
 }
 .btn-link:after {
   width: 0%;
