@@ -111,3 +111,8 @@ button {
   width: 100%;
 }
 
+.video {
+  margin-top: 42px;
+  display: flex;
+  justify-content: center;
+}
