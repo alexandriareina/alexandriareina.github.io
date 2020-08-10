@@ -123,8 +123,6 @@ button {
 }
 
 .footer { 
-  display: flex;
-  margin: 10px;
   position: absolute;
   bottom: 0;
   width: 100%;
