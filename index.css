@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Bungee');
+@import url('https://fonts.googleapis.com/css?family=Bungee|Manrope');
 
 body {
   font-family: Bungee, sans-serif;
@@ -8,6 +8,10 @@ body {
   text-align: center;
   vertical-align: middle;
   padding-bottom: 2.5rem; 
+}
+
+p {
+  font-family:Manrope;
 }
 
 .parent {
