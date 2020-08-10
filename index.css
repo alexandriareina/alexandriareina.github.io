@@ -30,6 +30,8 @@ body {
  }
 
 .btn-link {
+  display: grid;
+  place-items: center;
   line-height: 39px;
   padding: 0;
 }
