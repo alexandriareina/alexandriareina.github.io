@@ -45,6 +45,7 @@ button {
   transition: all 0.3s ease;
   position: relative;
   display: grid;
+  border-radius: 12px;
 }
 
 .btn-link {
