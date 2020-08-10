@@ -37,7 +37,7 @@ body {
   width: 130px;
   height: 40px;
   padding: 10px 25px;
-  border: 2px solid #000;
+  border: 2px solid #FFFFFC;
   font-family: 'Bungee', serif;
   font-weight: 500;
   background: transparent;
@@ -55,7 +55,7 @@ body {
 }
 .btn-link:hover{
   background: transparent;
-  color: #000;
+  color: #FFFFFC;
 }
 .btn-link span {
   position: relative;
@@ -69,7 +69,7 @@ body {
   content: "";
   left: 0;
   top: 0;
-  background: #000;
+  background: #FFFFFC;
   transition: all 0.3s ease;
 }
 .btn-link:before {
@@ -92,7 +92,7 @@ body {
   content: "";
   right: 0;
   bottom: 0;
-  background: #000;
+  background: #FFFFFC;
   transition: all 0.3s ease;
 }
 .btn-link span:before {
