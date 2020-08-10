@@ -66,8 +66,8 @@ body {
 .btn-link:hover:after {
   width: 100%;
 }
-.btn-3 span:before,
-.btn-3 span:after {
+.btn-link span:before,
+.btn-link span:after {
   position: absolute;
   content: "";
   right: 0;
