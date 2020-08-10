@@ -50,13 +50,14 @@ button {
 
 .btn-link {
   display: grid;
+  color: #FFFFFC;
   place-items: center;
   line-height: 39px;
   padding: 0;
 }
 .btn-link:hover{
   background: transparent;
-  color: #FFFFFC;
+  color: #ECFFF8;
 }
 .btn-link span {
   position: relative;
