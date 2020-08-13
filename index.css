@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Bungee|Chewy');
+@import url('https://fonts.googleapis.com/css?family=Bungee|Chewy|Bungee Shadow');
 
 body {
   background-color: #C2E7D9;
@@ -27,6 +27,7 @@ p {
   
 .marquee {
   display: grid;
+  font-family: Bungee Shadow, serif;
   place-items: center;
   text-align: center;
   color: #FFFFFC;
