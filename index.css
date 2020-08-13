@@ -121,6 +121,7 @@ button {
 
 .video {
   margin-top: 90px;
+  margin-bottom: 90px;
   display: flex;
   justify-content: center;
 }
