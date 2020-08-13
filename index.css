@@ -54,6 +54,7 @@ button {
 
 .btn-link {
   display: grid;
+  font-family: Bungee, serif;
   color: #FFFFFC;
   place-items: center;
   line-height: 39px;
