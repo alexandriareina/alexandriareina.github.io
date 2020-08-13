@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Bungee|Chewy|Bungee Shadow');
+@import url('https://fonts.googleapis.com/css?family=Bungee|Chewy|Passero One');
 
 body {
   background-color: #C2E7D9;
@@ -10,7 +10,7 @@ body {
 
 p {
   font-family:Chewy, serif;
-  font-size: 400px;
+  font-size: 40px;
 }
 
 .parent {
@@ -27,7 +27,7 @@ p {
   
 .marquee {
   display: grid;
-  font-family: Bungee Shadow, serif;
+  font-family: Passero One, serif;
   place-items: center;
   text-align: center;
   color: #FFFFFC;
