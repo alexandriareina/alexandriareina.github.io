@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Bungee|Chewy|Passero One');
+@import url('https://fonts.googleapis.com/css?family=Bungee|Chewy|Arimo');
 
 body {
   background-color: #F0A7A0;
@@ -103,6 +103,7 @@ button {
 
 .footer { 
   padding: 10px;
+  font-family: Arimo, serif;
   position: static;
   color: #FFFFFC;
   bottom: 0;
