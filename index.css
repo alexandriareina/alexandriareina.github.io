@@ -64,12 +64,7 @@ button {
   background: transparent;
   color: #ECFFF8;
 }
-.btn-link span {
-  position: relative;
-  display: block;
-  width: 100%;
-  height: 100%;
-}
+
 .btn-link:before,
 .btn-link:after {
   position: absolute;
@@ -91,29 +86,6 @@ button {
   height: 100%;
 }
 .btn-link:hover:after {
-  width: 100%;
-}
-.btn-link span:before,
-.btn-link span:after {
-  position: absolute;
-  content: "";
-  right: 0;
-  bottom: 0;
-  background: #FFFFFC;
-  transition: all 0.3s ease;
-}
-.btn-link span:before {
-  width: 2px;
-  height: 0%;
-}
-.btn-link span:after {
-  width: 0%;
-  height: 2px;
-}
-.btn-link span:hover:before {
-  height: 100%;
-}
-.btn-link span:hover:after {
   width: 100%;
 }
 
